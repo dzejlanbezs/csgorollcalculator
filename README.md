@@ -1,6 +1,8 @@
 CSGORoll Calculator Extension - by: Dzejlan
 -------------------
-Extension will help you to get the exact data on how much coins you need to wager for your next level.
+Extension will help you to get the exact data on how much coins you need to wager for your next level. 
+No need to deposit under code until 1st of June!!
+Just type under <b>Username</b> "DZEJLAN"
 
 How it works?
 -------------------
