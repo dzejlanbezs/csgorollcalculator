@@ -17,6 +17,6 @@ After are fields are filled out you click <b>Calculate</b> and it will show you 
 
 Important
 -------------------
-Please keep in mind that without using the code <b>HIGHPOTENTIAL</b> on CSGORoll you wont be able to see your stats.
+Please keep in mind that without using the code <b>ROLLCALCULATOR</b> on CSGORoll you wont be able to see your stats.
 You need to make at least <b>50 coins</b> deposit under the code to have access to it lifetime.
-I made it to be free till 1st of June
+I made it to be free till 1st of June 2024
