@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         if (!allowedUsernames.includes(username)) {
-            alert('You are not using referall code on roll: HIGHPOTENTIAL');
+            alert('You are not using referall code on roll: ROLLCALCULATOR');
             return;
         }
 
